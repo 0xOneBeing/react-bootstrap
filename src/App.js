@@ -1,11 +1,11 @@
 import './App.css';
-import bootstrap from 'bootstrap';
+import {} from 'bootstrap';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      {/* <Button>A Button</Button>  */}
     </div>
   );
 }
